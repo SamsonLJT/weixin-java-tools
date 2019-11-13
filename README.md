@@ -25,7 +25,12 @@
 			</td>
 			<td align="right" valign="middle">
 				<a href="https://coding.net/?utm_source=WxJava" target="_blank">
-					<img height="120" src="https://gitee.com/binary/weixin-java-tools/raw/master/images/banners/coding.jpg">
+					<img height="120" src="https://github.com/Wechat-Group/WxJava/blob/test/images/banners/planB.jpg?raw=true">
+				</a>
+			</td>
+			<td align="center" valign="middle">
+				<a href="https://www.vultr.com/?ref=7888900-4F" target="_blank">
+					<img height="120" src="https://github.com/Wechat-Group/WxJava/blob/test/images/banners/vultr.jpg?raw=true">
 				</a>
 			</td>
 			<td align="center" valign="middle">
